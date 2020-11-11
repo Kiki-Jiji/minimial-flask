@@ -6,7 +6,7 @@ There are many ways to setup a flask project, this is one example adapted from t
 
 It sets up a flask project with a useful directory structure. It also includes bootstrap as a CDN miniming the custom CSS needed.
 
-First use 
+First use: 
 
 ```bash
 git clone https://github.com/Kiki-Jiji/minimial-flask.git  
